@@ -175,7 +175,7 @@ td, th, tr {
 
 @media only screen and (min-width: 801px) and (max-width: 1100px) {
   .Carimg {
-    width: 200px;
+    width: 95%;
     margin-left: auto;
   }
 }
