@@ -182,7 +182,7 @@ td, th, tr {
 
 @media only screen and (max-width: 800px) {
   .column {
-    width: 95%;
+    width: 50%;
   }
 }
 
