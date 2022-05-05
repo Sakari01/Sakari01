@@ -181,7 +181,7 @@ td, th, tr {
 }
 
 @media only screen and (max-width: 800px) {
-  .column {
+  .Carimg {
     width: 50%;
   }
 }
